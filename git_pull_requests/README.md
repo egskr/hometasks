@@ -44,7 +44,8 @@
         
         
        
-        
+  <h3>Screenshots:</h3>      
 
- ![alt tag](https://github.com/egskr/hometasks/blob/final_branch/git_pull_requests/screenshots/1.jpg)
+ ![alt tag](https://github.com/egskr/hometasks/blob/final_branch/git_pull_requests/screenshots/1.jpg)<br>
+ ![alt tag](https://github.com/egskr/hometasks/blob/final_branch/git_pull_requests/screenshots/2.jpg)
        
