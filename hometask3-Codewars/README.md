@@ -18,10 +18,10 @@ task3.py
 task4.py 
 
 5)https://www.codewars.com/kata/a-disguised-sequence-i :<br>
+task4.py<br>
 
 
-
-And additional tasks:<br><br>
+And additional tasks:<br>
 
 additional_task6.py <br>
 additional_task7.py<br>
