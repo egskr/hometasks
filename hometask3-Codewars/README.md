@@ -1,6 +1,6 @@
 # Hometasks for Python Devops 2017
 
-<H2>Hometask3 Codewars.</H2>
+<H2>Hometask 3 Codewars</H2>
 
 
 <b>Contains mandatory tasks:</b>
