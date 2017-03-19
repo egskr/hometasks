@@ -5,19 +5,14 @@
 <h3>ABOUT PROGRAM:</h3>
     pull_req_stat.py collects and displays pull requests statistics from Github.<br>
     It's possible to output all statistic parametres or separate parametres.<br><br>
-    It has 3 mandatory arguments:<br>
+    <b>It has 3 mandatory arguments:</b><br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'-u' - Github username,<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'-r' - Github repository name,<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'-p' - pull request number.<br>
-    Also it has optional parameter '-o' - for parameters filtering.
-
-    EXAMPLES:
-        1) pull_req_stat.py -u ivanovmsk -r python_programms -p 23 -o mcstat numdo daywo
-        2) pull_req_stat.py -u x_man -r myscripts -p all -o all -r python_programms -p 23 -o mcstat numdo daywo
-        3) pull_req_stat.py -u mygitacc -r xmlparser_project -p all
+    Also it has optional parameter '-o' - for parameters filtering.  
         
 
-optional arguments:
+<b>Optional arguments:</b><br>
   -h, --help            show this help message and exit
   -user USER, -u USER   Github username. Required: yes
   -repo REPO, -r REPO   Github repo. Required: yes
@@ -43,4 +38,9 @@ optional arguments:
                             numld - Number of lines deleted.
                             pullreqafter - Option to consider only pull requests opened on or after this date.
                             pullreqbefore - Only consider pull requests opened before this date.
+                            
+          EXAMPLES:
+        1) pull_req_stat.py -u ivanovmsk -r python_programms -p 23 -o mcstat numdo daywo
+        2) pull_req_stat.py -u x_man -r myscripts -p all -o all -r python_programms -p 23 -o mcstat numdo daywo
+        3) pull_req_stat.py -u mygitacc -r xmlparser_project -p all
        
