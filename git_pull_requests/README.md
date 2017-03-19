@@ -13,13 +13,12 @@
         
 
 <br><b>Optional arguments:</b><br>
-  -h, --help            show this help message and exit
-  -user USER, -u USER   Github username. Required: yes
-  -repo REPO, -r REPO   Github repo. Required: yes
-  -pullreqnum PULLREQNUM, -p PULLREQNUM
-                        Pull Request Number. {int} or {'all'}. Required: yes
-  --version, -v         show program's version number and exit
-  -o [{all,mcstat,numdo,numcc,daywo,daywc,hourdo,hourdc,weeko,weekc,labels,numla,numld,pullreqafter,pullreqbefore} [{all,mcstat,numdo,numcc,daywo,daywc,hourdo,hourdc,weeko,weekc,labels,numla,numld,pullreqafter,pullreqbefore} ...]]
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-h, --help            show this help message and exit<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-user USER, -u USER   Github username. Required: yes<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-repo REPO, -r REPO   Github repo. Required: yes<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-pullreqnum PULLREQNUM, -p PULLREQNUM  Pull Request Number. {int} or {'all'}. Required: yes<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--version, -v     show program's version number and exit<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-o [{all,mcstat,numdo,numcc,daywo,daywc,hourdo,hourdc,weeko,weekc,labels,numla,numld,pullreqafter,pullreqbefore} [{all,mcstat,numdo,numcc,daywo,daywc,hourdo,hourdc,weeko,weekc,labels,numla,numld,pullreqafter,pullreqbefore} ...]]
                         List of available options:
                             all - Show all statistics (default value).
                             mcstat - Basic statistics about merged/closed rate.
