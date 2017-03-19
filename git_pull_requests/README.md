@@ -42,6 +42,9 @@
         2) pull_req_stat.py -u x_man -r myscripts -p all -o all -r python_programms -p 23 -o mcstat numdo daywo
         3) pull_req_stat.py -u mygitacc -r xmlparser_project -p all 
         
+        
+        ![alt tag] https://github.com/egskr/hometasks/blob/final_branch/git_pull_requests/screenshots/1.jpg
+        
 
 
        
