@@ -40,5 +40,8 @@
           EXAMPLES:
         1) pull_req_stat.py -u ivanovmsk -r python_programms -p 23 -o mcstat numdo daywo
         2) pull_req_stat.py -u x_man -r myscripts -p all -o all -r python_programms -p 23 -o mcstat numdo daywo
-        3) pull_req_stat.py -u mygitacc -r xmlparser_project -p all
+        3) pull_req_stat.py -u mygitacc -r xmlparser_project -p all 
+        
+
+
        
