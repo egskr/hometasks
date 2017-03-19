@@ -18,10 +18,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>-repo</i> REPO, <i>-r</i> REPO   Github repo. Required: yes<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>-pullreqnum</i> PULLREQNUM, <i>-p</i> PULLREQNUM  Pull Request Number. {int} or {'all'}. Required: yes<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>--version</i>, <i>-v</i>     show program's version number and exit<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>-o</i> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List of available options:
-                            all - Show all statistics (default value).
-                            mcstat - Basic statistics about merged/closed rate.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>-o</i> List of available options:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all - Show all statistics (default value).
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mcstat - Basic statistics about merged/closed rate.
                             numdo - Number of days opened
                             numcc - Number of comments created.
                             daywo - Day of the week opened.
