@@ -19,23 +19,23 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>-pullreqnum</i> PULLREQNUM, <i>-p</i> PULLREQNUM  Pull Request Number. {int} or {'all'}. Required: yes<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>--version</i>, <i>-v</i>     show program's version number and exit<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>-o</i> List of available options:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all - Show all statistics (default value).
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mcstat - Basic statistics about merged/closed rate.
-                            numdo - Number of days opened
-                            numcc - Number of comments created.
-                            daywo - Day of the week opened.
-                            daywc - Day of the week close
-                            hourdo - Hour of the day opened.
-                            hourdc - Hour of the day closed.
-                            weeko - Week opened.
-                            weekc - Week closed.
-                            usero - User who opened.
-                            userc - User who closed.
-                            labels - Attached labels.
-                            numla - Number of lines added.
-                            numld - Number of lines deleted.
-                            pullreqafter - Option to consider only pull requests opened on or after this date.
-                            pullreqbefore - Only consider pull requests opened before this date.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all - Show all statistics (default value).<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mcstat - Basic statistics about merged/closed rate.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;numdo - Number of days opened.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;numcc - Number of comments created.<br>
+                            daywo - Day of the week opened.<br>
+                            daywc - Day of the week close.<br>
+                            hourdo - Hour of the day opened.<br>
+                            hourdc - Hour of the day closed.<br>
+                            weeko - Week opened.<br>
+                            weekc - Week closed.<br>
+                            usero - User who opened.<br>
+                            userc - User who closed.<br>
+                            labels - Attached labels.<br>
+                            numla - Number of lines added.<br>
+                            numld - Number of lines deleted.<br>
+                            pullreqafter - Option to consider only pull requests opened on or after this date.<br>
+                            pullreqbefore - Only consider pull requests opened before this date.<br>
                             
           EXAMPLES:
         1) pull_req_stat.py -u ivanovmsk -r python_programms -p 23 -o mcstat numdo daywo
