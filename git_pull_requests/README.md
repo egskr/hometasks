@@ -13,7 +13,7 @@
         
 
 <br><b>Optional arguments:</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-h, --help            show this help message and exit<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>-h</i>, --help            show this help message and exit<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-user USER, -u USER   Github username. Required: yes<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-repo REPO, -r REPO   Github repo. Required: yes<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-pullreqnum PULLREQNUM, -p PULLREQNUM  Pull Request Number. {int} or {'all'}. Required: yes<br>
