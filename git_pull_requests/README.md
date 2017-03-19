@@ -2,7 +2,7 @@
 
 <H2>Github pull requests statistics collector</H2>
 
-ABOUT PROGRAMM:
+<h2>ABOUT PROGRAMM:</h2>
     pull_req_stat.py collects and displays pull requests statistics from Github.
     It's possible to output all statistic parametres or separate parametres.
     It has 3 mandatory arguments:
