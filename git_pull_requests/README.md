@@ -12,7 +12,7 @@
     Also it has optional parameter '-o' - for parameters filtering.  
         
 
-<b>Optional arguments:</b><br>
+<br><b>Optional arguments:</b><br>
   -h, --help            show this help message and exit
   -user USER, -u USER   Github username. Required: yes
   -repo REPO, -r REPO   Github repo. Required: yes
