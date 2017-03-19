@@ -19,7 +19,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>-pullreqnum</i> PULLREQNUM, <i>-p</i> PULLREQNUM  Pull Request Number. {int} or {'all'}. Required: yes<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>--version</i>, <i>-v</i>     show program's version number and exit<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>-o</i> List of available options:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all - Show all statistics (default value).<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all - Show all statistics (default value).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>mcstat</i> - Basic statistics about merged/closed rate.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>numdo</i> - Number of days opened.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>numcc</i> - Number of comments created.<br>
