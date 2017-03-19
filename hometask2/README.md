@@ -1,6 +1,6 @@
 # Hometasks for Python Devops 2017
 
-Contains tasks:
+Contains tasks:  
 task1.py  
 task2.py  
 task3.py  
