@@ -43,8 +43,8 @@
         3) pull_req_stat.py -u mygitacc -r xmlparser_project -p all 
         
         
-        ![alt tag] https://github.com/egskr/hometasks/blob/final_branch/git_pull_requests/screenshots/1.jpg
+       
         
 
-
+ ![alt tag] https://github.com/egskr/hometasks/blob/final_branch/git_pull_requests/screenshots/1.jpg
        
