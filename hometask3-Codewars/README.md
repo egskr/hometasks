@@ -3,7 +3,7 @@
 <H2>Hometask3 Codewars.</H2>
 
 
-Contains mandatory tasks:
+<b>Contains mandatory tasks:</b>
 
 1)https://www.codewars.com/kata/polynomials-i-string-format :<br>
 task1.py  
@@ -21,7 +21,7 @@ task4.py
 task4.py<br>
 
 
-And additional tasks:<br>
+<b>And additional tasks:</b><br>
 
 additional_task6.py <br>
 additional_task7.py<br>
