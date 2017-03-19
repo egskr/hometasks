@@ -6,9 +6,9 @@
     pull_req_stat.py collects and displays pull requests statistics from Github.<br>
     It's possible to output all statistic parametres or separate parametres.<br><br>
     It has 3 mandatory arguments:<br>
-        &nbsp;'-u' - Github username,
-        &nbsp;'-r' - Github repository name,
-        &nbsp;'-p' - pull request number.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'-u' - Github username,<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'-r' - Github repository name,<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'-p' - pull request number.<br>
     Also it has optional parameter '-o' - for parameters filtering.
 
     EXAMPLES:
